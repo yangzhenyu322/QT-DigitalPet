@@ -1,0 +1,624 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>backImage/bed.jpg</file>
+        <file>backImage/bedroom.jpg</file>
+        <file>backImage/begin.jpg</file>
+        <file>backImage/exerciseRoom.png</file>
+        <file>backImage/login.jpg</file>
+        <file>backImage/playroom.png</file>
+        <file>backImage/playroomNight.png</file>
+        <file>bedroom/bed.png</file>
+        <file>backImage/playroomNight.jpg</file>
+        <file>backImage/glassLand.jpg</file>
+        <file>backImage/glassLand.png</file>
+        <file>backImage/title.png</file>
+        <file>backImage/mouse.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>playroom/amuse.png</file>
+        <file>playroom/bedroom.png</file>
+        <file>playroom/cure.png</file>
+        <file>playroom/exciseroom.png</file>
+        <file>playroom/health.png</file>
+        <file>playroom/kitchen.png</file>
+        <file>playroom/message.png</file>
+        <file>playroom/moon.png</file>
+        <file>playroom/sum.gif</file>
+        <file>playroom/sun.png</file>
+        <file>playroom/mood.png</file>
+        <file>playroom/back.jpg</file>
+        <file>playroom/active.png</file>
+        <file>playroom/hunger.png</file>
+        <file>playroom/Yangpa_0 副本.png</file>
+        <file>playroom/Yangpa_1 副本.png</file>
+        <file>playroom/Yangpa_2 副本.png</file>
+        <file>playroom/Yangpa_3 副本.png</file>
+        <file>playroom/Yangpa_4 副本.png</file>
+        <file>playroom/Yangpa_5 副本.png</file>
+        <file>playroom/Yangpa_6 副本.png</file>
+        <file>playroom/Yangpa_7 副本.png</file>
+        <file>playroom/Yangpa_8 副本.png</file>
+        <file>playroom/Yangpa_9 副本.png</file>
+        <file>playroom/Yangpa_10 副本.png</file>
+        <file>playroom/Yangpa_11 副本.png</file>
+        <file>playroom/Yangpa_12 副本.png</file>
+        <file>playroom/Yangpa_13 副本.png</file>
+        <file>playroom/Yangpa_14 副本.png</file>
+        <file>playroom/Yangpa_15 副本.png</file>
+        <file>playroom/Yangpa_16 副本.png</file>
+        <file>playroom/Yangpa_17 副本.png</file>
+        <file>playroom/Yangpa_18 副本.png</file>
+        <file>playroom/Yangpa_19 副本.png</file>
+        <file>playroom/Yangpa_20 副本.png</file>
+        <file>playroom/Yangpa_21 副本.png</file>
+        <file>playroom/Yangpa_22 副本.png</file>
+        <file>playroom/Yangpa_23 副本.png</file>
+        <file>playroom/Yangpa_24 副本.png</file>
+        <file>playroom/Yangpa_25 副本.png</file>
+        <file>playroom/Yangpa_26 副本.png</file>
+        <file>playroom/Yangpa_27 副本.png</file>
+        <file>playroom/Yangpa_28 副本.png</file>
+        <file>playroom/Yangpa_29 副本.png</file>
+        <file>playroom/Yangpa_30 副本.png</file>
+        <file>playroom/Yangpa_31 副本.png</file>
+        <file>playroom/Yangpa_32 副本.png</file>
+        <file>playroom/Yangpa_33 副本.png</file>
+        <file>playroom/Yangpa_34 副本.png</file>
+        <file>playroom/Yangpa_35 副本.png</file>
+        <file>playroom/Yangpa_36 副本.png</file>
+        <file>playroom/Yangpa_37 副本.png</file>
+        <file>playroom/Yangpa_38 副本.png</file>
+        <file>playroom/Yangpa_39 副本.png</file>
+        <file>playroom/upAction/Yangpa_19 副本.png</file>
+        <file>playroom/upAction/Yangpa_20 副本.png</file>
+        <file>playroom/upAction/Yangpa_21 副本.png</file>
+        <file>playroom/upAction/Yangpa_22 副本.png</file>
+        <file>playroom/upAction/Yangpa_23 副本.png</file>
+        <file>playroom/upAction/Yangpa_24 副本.png</file>
+        <file>playroom/donwAction/Yangpa_40 副本.png</file>
+        <file>playroom/donwAction/Yangpa_41 副本.png</file>
+        <file>playroom/donwAction/Yangpa_42 副本.png</file>
+        <file>playroom/donwAction/Yangpa_43 副本.png</file>
+        <file>playroom/donwAction/Yangpa_44 副本.png</file>
+        <file>playroom/leftAction/Yangpa_50 副本.png</file>
+        <file>playroom/leftAction/Yangpa_51 副本.png</file>
+        <file>playroom/leftAction/Yangpa_52 副本.png</file>
+        <file>playroom/leftAction/Yangpa_53 副本.png</file>
+        <file>playroom/leftAction/Yangpa_54 副本.png</file>
+        <file>playroom/rightAction/Yangpa_50 副本.png</file>
+        <file>playroom/rightAction/Yangpa_51 副本.png</file>
+        <file>playroom/rightAction/Yangpa_52 副本.png</file>
+        <file>playroom/rightAction/Yangpa_53 副本.png</file>
+        <file>playroom/rightAction/Yangpa_54 副本.png</file>
+        <file>playroom/Doobu_0 副本.png</file>
+        <file>playroom/Doobu_1 副本.png</file>
+        <file>playroom/Doobu_2 副本.png</file>
+        <file>playroom/Doobu_3 副本.png</file>
+        <file>playroom/Doobu_4 副本.png</file>
+        <file>playroom/Doobu_5 副本.png</file>
+        <file>playroom/Doobu_6 副本.png</file>
+        <file>playroom/Doobu_7 副本.png</file>
+        <file>playroom/Doobu_8 副本.png</file>
+        <file>playroom/Doobu_9 副本.png</file>
+        <file>playroom/Doobu_10 副本.png</file>
+        <file>playroom/Doobu_11 副本.png</file>
+        <file>playroom/Doobu_12 副本.png</file>
+        <file>playroom/Doobu_13 副本.png</file>
+        <file>playroom/Doobu_14 副本.png</file>
+        <file>playroom/Doobu_15 副本.png</file>
+        <file>playroom/Doobu_16 副本.png</file>
+        <file>playroom/Doobu_17 副本.png</file>
+        <file>playroom/Doobu_18 副本.png</file>
+        <file>playroom/Doobu_19 副本.png</file>
+        <file>playroom/Doobu_20 副本.png</file>
+        <file>playroom/Doobu_21 副本.png</file>
+        <file>playroom/Doobu_22 副本.png</file>
+        <file>playroom/Doobu_23 副本.png</file>
+        <file>playroom/Doobu_24 副本.png</file>
+        <file>playroom/Doobu_25 副本.png</file>
+        <file>playroom/Doobu_26 副本.png</file>
+        <file>playroom/Doobu_27 副本.png</file>
+        <file>playroom/Doobu_28 副本.png</file>
+        <file>playroom/Doobu_29 副本.png</file>
+        <file>playroom/Doobu_30 副本.png</file>
+        <file>playroom/Doobu_31 副本.png</file>
+        <file>playroom/Doobu_32 副本.png</file>
+        <file>playroom/Doobu_33 副本.png</file>
+        <file>playroom/Doobu_34 副本.png</file>
+        <file>playroom/Doobu_35 副本.png</file>
+        <file>playroom/Doobu_36 副本.png</file>
+        <file>playroom/Doobu_37 副本.png</file>
+        <file>playroom/Doobu_38 副本.png</file>
+        <file>playroom/Doobu_39 副本.png</file>
+        <file>playroom/Pasery_0 副本.png</file>
+        <file>playroom/Pasery_1 副本.png</file>
+        <file>playroom/Pasery_2 副本.png</file>
+        <file>playroom/Pasery_3 副本.png</file>
+        <file>playroom/Pasery_4 副本.png</file>
+        <file>playroom/Pasery_5 副本.png</file>
+        <file>playroom/Pasery_6 副本.png</file>
+        <file>playroom/Pasery_7 副本.png</file>
+        <file>playroom/Pasery_8 副本.png</file>
+        <file>playroom/Pasery_9 副本.png</file>
+        <file>playroom/Pasery_10 副本.png</file>
+        <file>playroom/Pasery_11 副本.png</file>
+        <file>playroom/Pasery_12 副本.png</file>
+        <file>playroom/Pasery_13 副本.png</file>
+        <file>playroom/Pasery_14 副本.png</file>
+        <file>playroom/Pasery_15 副本.png</file>
+        <file>playroom/Pasery_16 副本.png</file>
+        <file>playroom/Pasery_17 副本.png</file>
+        <file>playroom/Pasery_18 副本.png</file>
+        <file>playroom/Pasery_19 副本.png</file>
+        <file>playroom/Pasery_20 副本.png</file>
+        <file>playroom/Pasery_21 副本.png</file>
+        <file>playroom/Pasery_22 副本.png</file>
+        <file>playroom/Pasery_23 副本.png</file>
+        <file>playroom/Pasery_24 副本.png</file>
+        <file>playroom/Pasery_25 副本.png</file>
+        <file>playroom/Pasery_26 副本.png</file>
+        <file>playroom/Pasery_27 副本.png</file>
+        <file>playroom/Pasery_28 副本.png</file>
+        <file>playroom/Pasery_29 副本.png</file>
+        <file>playroom/Pasery_30 副本.png</file>
+        <file>playroom/Pasery_31 副本.png</file>
+        <file>playroom/Pasery_32 副本.png</file>
+        <file>playroom/Pasery_33 副本.png</file>
+        <file>playroom/Pasery_34 副本.png</file>
+        <file>playroom/Pasery_35 副本.png</file>
+        <file>playroom/Pasery_36 副本.png</file>
+        <file>playroom/Pasery_37 副本.png</file>
+        <file>playroom/Pasery_38 副本.png</file>
+        <file>playroom/Pasery_39 副本.png</file>
+        <file>playroom/donwAction/Doobu_39 副本.png</file>
+        <file>playroom/donwAction/Doobu_40 副本.png</file>
+        <file>playroom/donwAction/Doobu_41 副本.png</file>
+        <file>playroom/donwAction/Doobu_42 副本.png</file>
+        <file>playroom/donwAction/Doobu_43 副本.png</file>
+        <file>playroom/donwAction/Doobu_44 副本.png</file>
+        <file>playroom/donwAction/Pasery_39 副本.png</file>
+        <file>playroom/donwAction/Pasery_40 副本.png</file>
+        <file>playroom/donwAction/Pasery_41 副本.png</file>
+        <file>playroom/donwAction/Pasery_42 副本.png</file>
+        <file>playroom/donwAction/Pasery_43 副本.png</file>
+        <file>playroom/donwAction/Pasery_44 副本.png</file>
+        <file>playroom/leftAction/Doobu_50 副本.png</file>
+        <file>playroom/leftAction/Doobu_51 副本.png</file>
+        <file>playroom/leftAction/Doobu_52 副本.png</file>
+        <file>playroom/leftAction/Doobu_53 副本.png</file>
+        <file>playroom/leftAction/Doobu_54 副本.png</file>
+        <file>playroom/leftAction/Pasery_50 副本.png</file>
+        <file>playroom/leftAction/Pasery_51 副本.png</file>
+        <file>playroom/leftAction/Pasery_52 副本.png</file>
+        <file>playroom/leftAction/Pasery_53 副本.png</file>
+        <file>playroom/leftAction/Pasery_54 副本.png</file>
+        <file>playroom/rightAction/Doobu_50 副本.png</file>
+        <file>playroom/rightAction/Doobu_51 副本.png</file>
+        <file>playroom/rightAction/Doobu_52 副本.png</file>
+        <file>playroom/rightAction/Doobu_53 副本.png</file>
+        <file>playroom/rightAction/Doobu_54 副本.png</file>
+        <file>playroom/rightAction/Pasery_50 副本.png</file>
+        <file>playroom/rightAction/Pasery_51 副本.png</file>
+        <file>playroom/rightAction/Pasery_52 副本.png</file>
+        <file>playroom/rightAction/Pasery_53 副本.png</file>
+        <file>playroom/rightAction/Pasery_54 副本.png</file>
+        <file>playroom/upAction/Doobu_19 副本.png</file>
+        <file>playroom/upAction/Doobu_20 副本.png</file>
+        <file>playroom/upAction/Doobu_21 副本.png</file>
+        <file>playroom/upAction/Doobu_22 副本.png</file>
+        <file>playroom/upAction/Doobu_23 副本.png</file>
+        <file>playroom/upAction/Doobu_24 副本.png</file>
+        <file>playroom/upAction/Pasery_19 副本.png</file>
+        <file>playroom/upAction/Pasery_20 副本.png</file>
+        <file>playroom/upAction/Pasery_21 副本.png</file>
+        <file>playroom/upAction/Pasery_22 副本.png</file>
+        <file>playroom/upAction/Pasery_23 副本.png</file>
+        <file>playroom/upAction/Pasery_24 副本.png</file>
+        <file>playroom/sick/Doobu_88 副本.png</file>
+        <file>playroom/sick/Doobu_89 副本.png</file>
+        <file>playroom/sick/Doobu_90 副本.png</file>
+        <file>playroom/sick/Doobu_91 副本.png</file>
+        <file>playroom/sick/Doobu_92 副本.png</file>
+        <file>playroom/sick/Doobu_93 副本.png</file>
+        <file>playroom/sick/Doobu_94 副本.png</file>
+        <file>playroom/sick/Doobu_95 副本.png</file>
+        <file>playroom/sick/Doobu_96 副本.png</file>
+        <file>playroom/sick/Pasery_88 副本.png</file>
+        <file>playroom/sick/Pasery_89 副本.png</file>
+        <file>playroom/sick/Pasery_90 副本.png</file>
+        <file>playroom/sick/Pasery_91 副本.png</file>
+        <file>playroom/sick/Pasery_92 副本.png</file>
+        <file>playroom/sick/Pasery_93 副本.png</file>
+        <file>playroom/sick/Pasery_94 副本.png</file>
+        <file>playroom/sick/Pasery_95 副本.png</file>
+        <file>playroom/sick/Pasery_96 副本.png</file>
+        <file>playroom/sick/Yangpa_88 副本.png</file>
+        <file>playroom/sick/Yangpa_89 副本.png</file>
+        <file>playroom/sick/Yangpa_90 副本.png</file>
+        <file>playroom/sick/Yangpa_91 副本.png</file>
+        <file>playroom/sick/Yangpa_92 副本.png</file>
+        <file>playroom/sick/Yangpa_93 副本.png</file>
+        <file>playroom/sick/Yangpa_94 副本.png</file>
+        <file>playroom/sick/Yangpa_95 副本.png</file>
+        <file>playroom/sick/Yangpa_96 副本.png</file>
+        <file>playroom/startOver/gameover.png</file>
+        <file>playroom/startOver/newGame.png</file>
+        <file>playroom/back.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>petImages/child/Yangpa_0 副本.png</file>
+        <file>petImages/child/Yangpa_1 副本.png</file>
+        <file>petImages/child/Yangpa_2 副本.png</file>
+        <file>petImages/child/Yangpa_3 副本.png</file>
+        <file>petImages/child/Yangpa_4 副本.png</file>
+        <file>petImages/child/Yangpa_5 副本.png</file>
+        <file>petImages/child/Yangpa_6 副本.png</file>
+        <file>petImages/child/Yangpa_7 副本.png</file>
+        <file>petImages/child/Yangpa_8 副本.png</file>
+        <file>petImages/child/Yangpa_9 副本.png</file>
+        <file>petImages/child/Yangpa_10 副本.png</file>
+        <file>petImages/child/Yangpa_11 副本.png</file>
+        <file>petImages/child/Yangpa_12 副本.png</file>
+        <file>petImages/child/Yangpa_13 副本.png</file>
+        <file>petImages/child/Yangpa_14 副本.png</file>
+        <file>petImages/child/Yangpa_15 副本.png</file>
+        <file>petImages/child/Yangpa_16 副本.png</file>
+        <file>petImages/child/Yangpa_17 副本.png</file>
+        <file>petImages/child/Yangpa_18 副本.png</file>
+        <file>petImages/child/Yangpa_19 副本.png</file>
+        <file>petImages/child/Yangpa_20 副本.png</file>
+        <file>petImages/child/Yangpa_21 副本.png</file>
+        <file>petImages/child/Yangpa_22 副本.png</file>
+        <file>petImages/child/Yangpa_23 副本.png</file>
+        <file>petImages/child/Yangpa_24 副本.png</file>
+        <file>petImages/child/Yangpa_25 副本.png</file>
+        <file>petImages/child/Yangpa_26 副本.png</file>
+        <file>petImages/child/Yangpa_27 副本.png</file>
+        <file>petImages/child/Yangpa_28 副本.png</file>
+        <file>petImages/child/Yangpa_29 副本.png</file>
+        <file>petImages/child/Yangpa_30 副本.png</file>
+        <file>petImages/child/Yangpa_31 副本.png</file>
+        <file>petImages/child/Yangpa_32 副本.png</file>
+        <file>petImages/child/Yangpa_33 副本.png</file>
+        <file>petImages/child/Yangpa_34 副本.png</file>
+        <file>petImages/child/Yangpa_35 副本.png</file>
+        <file>petImages/child/Yangpa_36 副本.png</file>
+        <file>petImages/child/Yangpa_37 副本.png</file>
+        <file>petImages/child/Yangpa_38 副本.png</file>
+        <file>petImages/child/Yangpa_39 副本.png</file>
+        <file>petImages/child/Yangpa_40 副本.png</file>
+        <file>petImages/child/Yangpa_41 副本.png</file>
+        <file>petImages/child/Yangpa_42 副本.png</file>
+        <file>petImages/child/Yangpa_43 副本.png</file>
+        <file>petImages/child/Yangpa_44 副本.png</file>
+        <file>petImages/child/Yangpa_45 副本.png</file>
+        <file>petImages/child/Yangpa_46 副本.png</file>
+        <file>petImages/child/Yangpa_47 副本.png</file>
+        <file>petImages/child/Yangpa_48 副本.png</file>
+        <file>petImages/child/Yangpa_49 副本.png</file>
+        <file>petImages/child/Yangpa_50 副本.png</file>
+        <file>petImages/child/Yangpa_51 副本.png</file>
+        <file>petImages/child/Yangpa_52 副本.png</file>
+        <file>petImages/child/Yangpa_53 副本.png</file>
+        <file>petImages/child/Yangpa_54 副本.png</file>
+        <file>petImages/child/Yangpa_55 副本.png</file>
+        <file>petImages/child/Yangpa_56 副本.png</file>
+        <file>petImages/child/Yangpa_57 副本.png</file>
+        <file>petImages/child/Yangpa_58 副本.png</file>
+        <file>petImages/child/Yangpa_59 副本.png</file>
+        <file>petImages/child/Yangpa_60 副本.png</file>
+        <file>petImages/child/Yangpa_61 副本.png</file>
+        <file>petImages/child/Yangpa_62 副本.png</file>
+        <file>petImages/child/Yangpa_63 副本.png</file>
+        <file>petImages/child/Yangpa_64 副本.png</file>
+        <file>petImages/child/Yangpa_65 副本.png</file>
+        <file>petImages/child/Yangpa_66 副本.png</file>
+        <file>petImages/child/Yangpa_67 副本.png</file>
+        <file>petImages/child/Yangpa_68 副本.png</file>
+        <file>petImages/child/Yangpa_69 副本.png</file>
+        <file>petImages/child/Yangpa_70 副本.png</file>
+        <file>petImages/child/Yangpa_71 副本.png</file>
+        <file>petImages/child/Yangpa_72 副本.png</file>
+        <file>petImages/child/Yangpa_73 副本.png</file>
+        <file>petImages/child/Yangpa_74 副本.png</file>
+        <file>petImages/child/Yangpa_75 副本.png</file>
+        <file>petImages/child/Yangpa_76 副本.png</file>
+        <file>petImages/child/Yangpa_77 副本.png</file>
+        <file>petImages/child/Yangpa_78 副本.png</file>
+        <file>petImages/child/Yangpa_79 副本.png</file>
+        <file>petImages/child/Yangpa_80 副本.png</file>
+        <file>petImages/child/Yangpa_81 副本.png</file>
+        <file>petImages/child/Yangpa_82 副本.png</file>
+        <file>petImages/child/Yangpa_83 副本.png</file>
+        <file>petImages/child/Yangpa_84 副本.png</file>
+        <file>petImages/child/Yangpa_85 副本.png</file>
+        <file>petImages/child/Yangpa_86 副本.png</file>
+        <file>petImages/child/Yangpa_87 副本.png</file>
+        <file>petImages/child/Yangpa_88 副本.png</file>
+        <file>petImages/child/Yangpa_89 副本.png</file>
+        <file>petImages/child/Yangpa_90 副本.png</file>
+        <file>petImages/child/Yangpa_91 副本.png</file>
+        <file>petImages/child/Yangpa_92 副本.png</file>
+        <file>petImages/child/Yangpa_93 副本.png</file>
+        <file>petImages/child/Yangpa_94 副本.png</file>
+        <file>petImages/child/Yangpa_95 副本.png</file>
+        <file>petImages/child/Yangpa_96 副本.png</file>
+        <file>petImages/child/Yangpa_97 副本.png</file>
+        <file>petImages/child/Yangpa_98 副本.png</file>
+        <file>petImages/child/Yangpa_99 副本.png</file>
+        <file>petImages/child/Yangpa_100 副本.png</file>
+        <file>petImages/child/Yangpa_101 副本.png</file>
+        <file>petImages/child/Yangpa_102 副本.png</file>
+        <file>petImages/child/Yangpa_103 副本.png</file>
+        <file>petImages/child/Yangpa_104 副本.png</file>
+        <file>petImages/youth/Pasery_0 副本.png</file>
+        <file>petImages/youth/Pasery_1 副本.png</file>
+        <file>petImages/youth/Pasery_2 副本.png</file>
+        <file>petImages/youth/Pasery_3 副本.png</file>
+        <file>petImages/youth/Pasery_4 副本.png</file>
+        <file>petImages/youth/Pasery_5 副本.png</file>
+        <file>petImages/youth/Pasery_6 副本.png</file>
+        <file>petImages/youth/Pasery_7 副本.png</file>
+        <file>petImages/youth/Pasery_8 副本.png</file>
+        <file>petImages/youth/Pasery_9 副本.png</file>
+        <file>petImages/youth/Pasery_10 副本.png</file>
+        <file>petImages/youth/Pasery_11 副本.png</file>
+        <file>petImages/youth/Pasery_12 副本.png</file>
+        <file>petImages/youth/Pasery_13 副本.png</file>
+        <file>petImages/youth/Pasery_14 副本.png</file>
+        <file>petImages/youth/Pasery_15 副本.png</file>
+        <file>petImages/youth/Pasery_16 副本.png</file>
+        <file>petImages/youth/Pasery_17 副本.png</file>
+        <file>petImages/youth/Pasery_18 副本.png</file>
+        <file>petImages/youth/Pasery_19 副本.png</file>
+        <file>petImages/youth/Pasery_20 副本.png</file>
+        <file>petImages/youth/Pasery_21 副本.png</file>
+        <file>petImages/youth/Pasery_22 副本.png</file>
+        <file>petImages/youth/Pasery_23 副本.png</file>
+        <file>petImages/youth/Pasery_24 副本.png</file>
+        <file>petImages/youth/Pasery_25 副本.png</file>
+        <file>petImages/youth/Pasery_26 副本.png</file>
+        <file>petImages/youth/Pasery_27 副本.png</file>
+        <file>petImages/youth/Pasery_28 副本.png</file>
+        <file>petImages/youth/Pasery_29 副本.png</file>
+        <file>petImages/youth/Pasery_30 副本.png</file>
+        <file>petImages/youth/Pasery_31 副本.png</file>
+        <file>petImages/youth/Pasery_32 副本.png</file>
+        <file>petImages/youth/Pasery_33 副本.png</file>
+        <file>petImages/youth/Pasery_34 副本.png</file>
+        <file>petImages/youth/Pasery_35 副本.png</file>
+        <file>petImages/youth/Pasery_36 副本.png</file>
+        <file>petImages/youth/Pasery_37 副本.png</file>
+        <file>petImages/youth/Pasery_38 副本.png</file>
+        <file>petImages/youth/Pasery_39 副本.png</file>
+        <file>petImages/youth/Pasery_40 副本.png</file>
+        <file>petImages/youth/Pasery_41 副本.png</file>
+        <file>petImages/youth/Pasery_42 副本.png</file>
+        <file>petImages/youth/Pasery_43 副本.png</file>
+        <file>petImages/youth/Pasery_44 副本.png</file>
+        <file>petImages/youth/Pasery_45 副本.png</file>
+        <file>petImages/youth/Pasery_46 副本.png</file>
+        <file>petImages/youth/Pasery_47 副本.png</file>
+        <file>petImages/youth/Pasery_48 副本.png</file>
+        <file>petImages/youth/Pasery_49 副本.png</file>
+        <file>petImages/youth/Pasery_50 副本.png</file>
+        <file>petImages/youth/Pasery_51 副本.png</file>
+        <file>petImages/youth/Pasery_52 副本.png</file>
+        <file>petImages/youth/Pasery_53 副本.png</file>
+        <file>petImages/youth/Pasery_54 副本.png</file>
+        <file>petImages/youth/Pasery_55 副本.png</file>
+        <file>petImages/youth/Pasery_56 副本.png</file>
+        <file>petImages/youth/Pasery_57 副本.png</file>
+        <file>petImages/youth/Pasery_58 副本.png</file>
+        <file>petImages/youth/Pasery_59 副本.png</file>
+        <file>petImages/youth/Pasery_60 副本.png</file>
+        <file>petImages/youth/Pasery_61 副本.png</file>
+        <file>petImages/youth/Pasery_62 副本.png</file>
+        <file>petImages/youth/Pasery_63 副本.png</file>
+        <file>petImages/youth/Pasery_64 副本.png</file>
+        <file>petImages/youth/Pasery_65 副本.png</file>
+        <file>petImages/youth/Pasery_66 副本.png</file>
+        <file>petImages/youth/Pasery_67 副本.png</file>
+        <file>petImages/youth/Pasery_68 副本.png</file>
+        <file>petImages/youth/Pasery_69 副本.png</file>
+        <file>petImages/youth/Pasery_70 副本.png</file>
+        <file>petImages/youth/Pasery_71 副本.png</file>
+        <file>petImages/youth/Pasery_72 副本.png</file>
+        <file>petImages/youth/Pasery_73 副本.png</file>
+        <file>petImages/youth/Pasery_74 副本.png</file>
+        <file>petImages/youth/Pasery_75 副本.png</file>
+        <file>petImages/youth/Pasery_76 副本.png</file>
+        <file>petImages/youth/Pasery_77 副本.png</file>
+        <file>petImages/youth/Pasery_78 副本.png</file>
+        <file>petImages/youth/Pasery_79 副本.png</file>
+        <file>petImages/youth/Pasery_80 副本.png</file>
+        <file>petImages/youth/Pasery_81 副本.png</file>
+        <file>petImages/youth/Pasery_82 副本.png</file>
+        <file>petImages/youth/Pasery_83 副本.png</file>
+        <file>petImages/youth/Pasery_84 副本.png</file>
+        <file>petImages/youth/Pasery_85 副本.png</file>
+        <file>petImages/youth/Pasery_86 副本.png</file>
+        <file>petImages/youth/Pasery_87 副本.png</file>
+        <file>petImages/youth/Pasery_88 副本.png</file>
+        <file>petImages/youth/Pasery_89 副本.png</file>
+        <file>petImages/youth/Pasery_90 副本.png</file>
+        <file>petImages/youth/Pasery_91 副本.png</file>
+        <file>petImages/youth/Pasery_92 副本.png</file>
+        <file>petImages/youth/Pasery_93 副本.png</file>
+        <file>petImages/youth/Pasery_94 副本.png</file>
+        <file>petImages/youth/Pasery_95 副本.png</file>
+        <file>petImages/youth/Pasery_96 副本.png</file>
+        <file>petImages/youth/Pasery_97 副本.png</file>
+        <file>petImages/youth/Pasery_98 副本.png</file>
+        <file>petImages/youth/Pasery_99 副本.png</file>
+        <file>petImages/youth/Pasery_100 副本.png</file>
+        <file>petImages/youth/Pasery_101 副本.png</file>
+        <file>petImages/youth/Pasery_102 副本.png</file>
+        <file>petImages/youth/Pasery_103 副本.png</file>
+        <file>petImages/youth/Pasery_104 副本.png</file>
+        <file>petImages/adult/Doobu_0 副本.png</file>
+        <file>petImages/adult/Doobu_1 副本.png</file>
+        <file>petImages/adult/Doobu_2 副本.png</file>
+        <file>petImages/adult/Doobu_3 副本.png</file>
+        <file>petImages/adult/Doobu_4 副本.png</file>
+        <file>petImages/adult/Doobu_5 副本.png</file>
+        <file>petImages/adult/Doobu_6 副本.png</file>
+        <file>petImages/adult/Doobu_7 副本.png</file>
+        <file>petImages/adult/Doobu_8 副本.png</file>
+        <file>petImages/adult/Doobu_9 副本.png</file>
+        <file>petImages/adult/Doobu_10 副本.png</file>
+        <file>petImages/adult/Doobu_11 副本.png</file>
+        <file>petImages/adult/Doobu_12 副本.png</file>
+        <file>petImages/adult/Doobu_13 副本.png</file>
+        <file>petImages/adult/Doobu_14 副本.png</file>
+        <file>petImages/adult/Doobu_15 副本.png</file>
+        <file>petImages/adult/Doobu_16 副本.png</file>
+        <file>petImages/adult/Doobu_17 副本.png</file>
+        <file>petImages/adult/Doobu_18 副本.png</file>
+        <file>petImages/adult/Doobu_19 副本.png</file>
+        <file>petImages/adult/Doobu_20 副本.png</file>
+        <file>petImages/adult/Doobu_21 副本.png</file>
+        <file>petImages/adult/Doobu_22 副本.png</file>
+        <file>petImages/adult/Doobu_23 副本.png</file>
+        <file>petImages/adult/Doobu_24 副本.png</file>
+        <file>petImages/adult/Doobu_25 副本.png</file>
+        <file>petImages/adult/Doobu_26 副本.png</file>
+        <file>petImages/adult/Doobu_27 副本.png</file>
+        <file>petImages/adult/Doobu_28 副本.png</file>
+        <file>petImages/adult/Doobu_29 副本.png</file>
+        <file>petImages/adult/Doobu_30 副本.png</file>
+        <file>petImages/adult/Doobu_31 副本.png</file>
+        <file>petImages/adult/Doobu_32 副本.png</file>
+        <file>petImages/adult/Doobu_33 副本.png</file>
+        <file>petImages/adult/Doobu_34 副本.png</file>
+        <file>petImages/adult/Doobu_35 副本.png</file>
+        <file>petImages/adult/Doobu_36 副本.png</file>
+        <file>petImages/adult/Doobu_37 副本.png</file>
+        <file>petImages/adult/Doobu_38 副本.png</file>
+        <file>petImages/adult/Doobu_39 副本.png</file>
+        <file>petImages/adult/Doobu_40 副本.png</file>
+        <file>petImages/adult/Doobu_41 副本.png</file>
+        <file>petImages/adult/Doobu_42 副本.png</file>
+        <file>petImages/adult/Doobu_43 副本.png</file>
+        <file>petImages/adult/Doobu_44 副本.png</file>
+        <file>petImages/adult/Doobu_45 副本.png</file>
+        <file>petImages/adult/Doobu_46 副本.png</file>
+        <file>petImages/adult/Doobu_47 副本.png</file>
+        <file>petImages/adult/Doobu_48 副本.png</file>
+        <file>petImages/adult/Doobu_49 副本.png</file>
+        <file>petImages/adult/Doobu_50 副本.png</file>
+        <file>petImages/adult/Doobu_51 副本.png</file>
+        <file>petImages/adult/Doobu_52 副本.png</file>
+        <file>petImages/adult/Doobu_53 副本.png</file>
+        <file>petImages/adult/Doobu_54 副本.png</file>
+        <file>petImages/adult/Doobu_55 副本.png</file>
+        <file>petImages/adult/Doobu_56 副本.png</file>
+        <file>petImages/adult/Doobu_57 副本.png</file>
+        <file>petImages/adult/Doobu_58 副本.png</file>
+        <file>petImages/adult/Doobu_59 副本.png</file>
+        <file>petImages/adult/Doobu_60 副本.png</file>
+        <file>petImages/adult/Doobu_61 副本.png</file>
+        <file>petImages/adult/Doobu_62 副本.png</file>
+        <file>petImages/adult/Doobu_63 副本.png</file>
+        <file>petImages/adult/Doobu_64 副本.png</file>
+        <file>petImages/adult/Doobu_65 副本.png</file>
+        <file>petImages/adult/Doobu_66 副本.png</file>
+        <file>petImages/adult/Doobu_67 副本.png</file>
+        <file>petImages/adult/Doobu_68 副本.png</file>
+        <file>petImages/adult/Doobu_69 副本.png</file>
+        <file>petImages/adult/Doobu_70 副本.png</file>
+        <file>petImages/adult/Doobu_71 副本.png</file>
+        <file>petImages/adult/Doobu_72 副本.png</file>
+        <file>petImages/adult/Doobu_73 副本.png</file>
+        <file>petImages/adult/Doobu_74 副本.png</file>
+        <file>petImages/adult/Doobu_75 副本.png</file>
+        <file>petImages/adult/Doobu_76 副本.png</file>
+        <file>petImages/adult/Doobu_77 副本.png</file>
+        <file>petImages/adult/Doobu_78 副本.png</file>
+        <file>petImages/adult/Doobu_79 副本.png</file>
+        <file>petImages/adult/Doobu_80 副本.png</file>
+        <file>petImages/adult/Doobu_81 副本.png</file>
+        <file>petImages/adult/Doobu_82 副本.png</file>
+        <file>petImages/adult/Doobu_83 副本.png</file>
+        <file>petImages/adult/Doobu_84 副本.png</file>
+        <file>petImages/adult/Doobu_85 副本.png</file>
+        <file>petImages/adult/Doobu_86 副本.png</file>
+        <file>petImages/adult/Doobu_87 副本.png</file>
+        <file>petImages/adult/Doobu_88 副本.png</file>
+        <file>petImages/adult/Doobu_89 副本.png</file>
+        <file>petImages/adult/Doobu_90 副本.png</file>
+        <file>petImages/adult/Doobu_91 副本.png</file>
+        <file>petImages/adult/Doobu_92 副本.png</file>
+        <file>petImages/adult/Doobu_93 副本.png</file>
+        <file>petImages/adult/Doobu_94 副本.png</file>
+        <file>petImages/adult/Doobu_95 副本.png</file>
+        <file>petImages/adult/Doobu_96 副本.png</file>
+        <file>petImages/adult/Doobu_97 副本.png</file>
+        <file>petImages/adult/Doobu_98 副本.png</file>
+        <file>petImages/adult/Doobu_99 副本.png</file>
+        <file>petImages/adult/Doobu_100 副本.png</file>
+        <file>petImages/adult/Doobu_101 副本.png</file>
+        <file>petImages/adult/Doobu_102 副本.png</file>
+        <file>petImages/adult/Doobu_103 副本.png</file>
+        <file>petImages/adult/Doobu_104 副本.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix4">
+        <file>gif/pet1.gif</file>
+        <file>gif/pet2.gif</file>
+        <file>gif/pet4.gif</file>
+        <file>gif/sun.gif</file>
+    </qresource>
+    <qresource prefix="/new/prefix5">
+        <file>login/login.png</file>
+        <file>login/upload.gif</file>
+        <file>login/exit.png</file>
+        <file>login/register.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix6">
+        <file>bedroom/bedroom.jpg</file>
+        <file>bedroom/zzz.png</file>
+        <file>bedroom/back.png</file>
+        <file>bedroom/bed.png</file>
+        <file>bedroom/bedBt.png</file>
+        <file>bedroom/sleepAction/Doobu_60 副本.png</file>
+        <file>bedroom/sleepAction/Doobu_61 副本.png</file>
+        <file>bedroom/sleepAction/Doobu_62 副本.png</file>
+        <file>bedroom/sleepAction/Doobu_63 副本.png</file>
+        <file>bedroom/sleepAction/Pasery_60 副本.png</file>
+        <file>bedroom/sleepAction/Pasery_61 副本.png</file>
+        <file>bedroom/sleepAction/Pasery_62 副本.png</file>
+        <file>bedroom/sleepAction/Pasery_63 副本.png</file>
+        <file>bedroom/sleepAction/Yangpa_60 副本.png</file>
+        <file>bedroom/sleepAction/Yangpa_61 副本.png</file>
+        <file>bedroom/sleepAction/Yangpa_62 副本.png</file>
+        <file>bedroom/sleepAction/Yangpa_63 副本.png</file>
+        <file>bedroom/leimu.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix7">
+        <file>entertainment/back.png</file>
+        <file>entertainment/glassLand.jpg</file>
+        <file>entertainment/play.png</file>
+        <file>entertainment/enter.gif</file>
+        <file>entertainment/move.GIF</file>
+    </qresource>
+    <qresource prefix="/new/prefix8">
+        <file>kitchen/dog .png</file>
+        <file>kitchen/food1.png</file>
+        <file>kitchen/food2.png</file>
+        <file>kitchen/food3.png</file>
+        <file>kitchen/food4.png</file>
+        <file>kitchen/kitchen.jpg</file>
+        <file>kitchen/eat.png</file>
+        <file>kitchen/food.png</file>
+        <file>kitchen/anger.png</file>
+        <file>kitchen/angetText.png</file>
+        <file>exerciseroom/play.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix9">
+        <file>exerciseroom/exerciseRoom.png</file>
+        <file>exerciseroom/tool1.png</file>
+        <file>exerciseroom/tool2.png</file>
+        <file>exerciseroom/tool3.png</file>
+        <file>exerciseroom/tool4.png</file>
+    </qresource>
+</RCC>
